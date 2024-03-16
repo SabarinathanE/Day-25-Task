@@ -1,0 +1,15 @@
+.header{
+  background-color:rgb(126, 223, 126);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.Details{
+  background-color: rgb(166, 94, 234);
+}
+
+.Dropdown{
+  background-color: aqua;
+}
