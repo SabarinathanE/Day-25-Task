@@ -1,16 +1,5 @@
 export default function Card({result=[],DeleteData = () => {},EditData = () => {},StatusHolder = () => {}}) {
 
-    // const [status, setStatus] = useState("Not-Completed");
-    // function StatusHolder(e) {
-    //     setStatus(e.target.value)
-    //     let Storestatus = (e.target.value);
-    //     console.log(Storestatus)
-    //     if(Storestatus == "Completed"){
-    //         result.Completed = true;
-    //     }else{
-    //         result.Completed = false;
-    //     }
-    //  }
 
     return (
         <div className="mt-3"> 
